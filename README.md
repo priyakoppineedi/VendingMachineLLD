@@ -1,4 +1,4 @@
-# Vending Machine Project
+# Vending Machine Loe Level Design
 
 ## Project Overview
 This project implements a **Modern Vending Machine** system designed to emulate a shopping cart experience. Users can interact with the vending machine through a menu-driven interface, either as a **Buyer** or a **Vendor**. The Buyer can browse products, add them to the cart, and proceed to checkout, while the Vendor can add, restock, or remove products.
