@@ -1,7 +1,7 @@
-# Vending Machine Loe Level Design
+# Vending Machine Low Level Design
 
 ## Project Overview
-This project implements a **Modern Vending Machine** system designed to emulate a shopping cart experience. Users can interact with the vending machine through a menu-driven interface, either as a **Buyer** or a **Vendor**. The Buyer can browse products, add them to the cart, and proceed to checkout, while the Vendor can add, restock, or remove products.
+This project implements a **Modern Vending Machine** system designed to simulate a shopping cart experience. Users can interact with the vending machine through a menu-driven interface, either as a **Buyer** or a **Vendor**. The Buyer can browse products, add them to the cart, and proceed to checkout, while the Vendor can add, restock, or remove products.
 
 The project has been developed using **Java**.
 
@@ -24,7 +24,6 @@ The project has been developed using **Java**.
 - **Lock Manager:** Ensures the machine is locked during maintenance or item dispensing.
 - **Payment Processing:** Supports cash-based payment.
 - **Cart Management:** Allows Buyers to modify their cart dynamically.
-- **Clear Cart:** Removes all items from the cart.
 
 ---
 
